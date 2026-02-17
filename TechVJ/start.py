@@ -148,7 +148,7 @@ async def save(client: Client, message: Message):
 
 current_id = fromID
 
-while True:
+while current_id += 1
     if batch_temp.IS_BATCH.get(message.from_user.id):
         break
 
